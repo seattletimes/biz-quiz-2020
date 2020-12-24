@@ -1,0 +1,23 @@
+<div class="inner">
+  <div class="inset-image">
+    <img src="./assets/quiz/{{id}}.jpg">
+    <div class="caption">
+      {{caption}} ({{photographer}})
+    </div>
+  </div>
+
+  <div class="question-inner">
+    <div class="question">
+      <div class="index"></div>
+      <span>{{question}}</span></div>
+
+    {{#answers}}
+      <p class="option">
+        <input type="radio" value="{{correct}}" name="answer" id="{{id}}">
+        <label for="{{id}}">{{initial}} {{answer}}</label>
+      </p>
+    {{/answers}}
+
+    <button class="submit" disabled><i class="fa fa-check"></i> Submit</button>
+  </div>
+</div>

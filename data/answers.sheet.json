@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "answer": 200
+  },
+  {
+    "id": 1,
+    "answer": "400-500",
+    "correct": "x"
+  },
+  {
+    "id": 1,
+    "answer": 737
+  },
+  {
+    "id": 1,
+    "answer": "1,100-1,200"
+  },
+  {
+    "id": 2,
+    "answer": "25%"
+  },
+  {
+    "id": 2,
+    "answer": "16%",
+    "correct": "x"
+  },
+  {
+    "id": 2,
+    "answer": "10%"
+  },
+  {
+    "id": 2,
+    "answer": "8%"
+  },
+  {
+    "id": 3,
+    "answer": "Cozy Bear"
+  },
+  {
+    "id": 3,
+    "answer": "Scarlet Scoundrel"
+  },
+  {
+    "id": 3,
+    "answer": "Scattered Canary",
+    "correct": "x"
+  },
+  {
+    "id": 3,
+    "answer": "Black Hat"
+  },
+  {
+    "id": 4,
+    "answer": "Two months"
+  },
+  {
+    "id": 4,
+    "answer": "Two CEOs"
+  },
+  {
+    "id": 4,
+    "answer": "Two years",
+    "correct": "x"
+  },
+  {
+    "id": 4,
+    "answer": "Two presidencies"
+  },
+  {
+    "id": 5,
+    "answer": "$10 billion"
+  },
+  {
+    "id": 5,
+    "answer": "Roughly 5% of his estimated wealth as of early December"
+  },
+  {
+    "id": 5,
+    "answer": "About 3 million Amazon shares"
+  },
+  {
+    "id": 5,
+    "answer": "All of the above",
+    "correct": "x"
+  },
+  {
+    "id": 6,
+    "answer": "Athira Pharma"
+  },
+  {
+    "id": 6,
+    "answer": "Zoom"
+  },
+  {
+    "id": 6,
+    "answer": "ZoomInfo",
+    "correct": "x"
+  },
+  {
+    "id": 6,
+    "answer": "Zoomania"
+  },
+  {
+    "id": 7,
+    "answer": "On the site of a former horse-racing track",
+    "correct": "x"
+  },
+  {
+    "id": 7,
+    "answer": "Across from Boeing Field in Seattle"
+  },
+  {
+    "id": 7,
+    "answer": "On the site of the former Sick's Stadium, home of the Seattle Pilots baseball team"
+  },
+  {
+    "id": 7,
+    "answer": "Adjacent to Paine Field in Everett"
+  },
+  {
+    "id": 8,
+    "answer": "A $1,200 “stimulus payment” for most adults"
+  },
+  {
+    "id": 8,
+    "answer": "Unemployment benefits for self-employed and “gig” workers"
+  },
+  {
+    "id": 8,
+    "answer": "Hazard pay for “essential” workers",
+    "correct": "x"
+  },
+  {
+    "id": 8,
+    "answer": "Suspension of payments on student loans from the government"
+  },
+  {
+    "id": 9,
+    "answer": "Aerodynamic changes to the airframe"
+  },
+  {
+    "id": 9,
+    "answer": "A third measure of the plane’s angle of attack",
+    "correct": "x"
+  },
+  {
+    "id": 9,
+    "answer": "A warning light when an angle of attack sensor fails"
+  },
+  {
+    "id": 9,
+    "answer": "A way to silence the \"stick shaker\" stall warning"
+  },
+  {
+    "id": 10,
+    "answer": "The Lincoln Toe Truck"
+  },
+  {
+    "id": 10,
+    "answer": "The Cinerama theater"
+  },
+  {
+    "id": 10,
+    "answer": "The downtown Seattle Macy’s",
+    "correct": "x"
+  },
+  {
+    "id": 10,
+    "answer": "All of the above"
+  },
+  {
+    "id": 11,
+    "answer": "A new line of indoor quarantine activewear"
+  },
+  {
+    "id": 11,
+    "answer": "Outdoor-based educational material for kids"
+  },
+  {
+    "id": 11,
+    "answer": "Its new, never-occupied Bellevue headquarters",
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": "Eddie Bauer brand products"
+  },
+  {
+    "id": 12,
+    "answer": "Down 4% "
+  },
+  {
+    "id": 12,
+    "answer": "Up 10%",
+    "correct": "x"
+  },
+  {
+    "id": 12,
+    "answer": "Down 12%"
+  },
+  {
+    "id": 12,
+    "answer": "Up 17%"
+  },
+  {
+    "id": 13,
+    "answer": "It’s 10% of year-ago levels."
+  },
+  {
+    "id": 13,
+    "answer": "Up 4% from a year ago but below previous projections."
+  },
+  {
+    "id": 13,
+    "answer": "It’s about 35% of year-ago levels.",
+    "correct": "x"
+  },
+  {
+    "id": 13,
+    "answer": "It’s 70% of year-ago levels."
+  }
+]

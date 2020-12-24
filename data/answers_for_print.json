@@ -1,0 +1,202 @@
+[
+  {
+    "question_id":"question-1",
+    "answer": "Restaurants Unlimited, which had a network of locations in half a dozen states that ranged from pubs to white-linen view restaurants"
+  },
+  {
+    "question_id":"question-1",
+    "answer": "Vigor Shipyards, the regional shipbuilding enterprise that was sold to private equity firm Carlyle"
+  },
+  {
+    "question_id":"question-1",
+    "answer": "Tableau Software, whose tools help people make graphs and charts from enormous data sets without the need of a computer science Ph.D.",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-1",
+    "answer": "Craft Brew Alliance, whose beer brands include Redhook, Widmer Brothers and the currently hot Kona Brewing"
+  },
+  {
+    "question_id":"question-2",
+    "answer": "10 years"
+  },
+  {
+    "question_id":"question-2",
+    "answer": "12 years"
+  },
+  {
+    "question_id":"question-2",
+    "answer": "21 years",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-2",
+    "answer": "It was never settled"
+  },
+  {
+    "question_id":"question-3",
+    "answer": "1.5 times"
+  },
+  {
+    "question_id":"question-3",
+    "answer": "2.3 times",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-3",
+    "answer": "5 times"
+  },
+  {
+    "question_id":"question-3",
+    "answer": "10 times"
+  },
+  {
+    "question_id":"question-4",
+    "answer": "Beyond Meat, which leaped 163% on its opening day."
+  },
+  {
+    "question_id":"question-4",
+    "answer": "Adaptive Biotechnologies, which doubled from its offering price the first day.",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-4",
+    "answer": "Jumia, the so-called Amazon of Africa, which jumped 75% its first day."
+  },
+  {
+    "question_id":"question-5",
+    "answer": "Assemble the massive 777X wings in Everett"
+  },
+  {
+    "question_id":"question-5",
+    "answer": "Install tens of thousands of fasteners in the 777 fuselage in Everett",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-5",
+    "answer": "Put together 737 MAX wing panels to increase the production rate in Renton"
+  },
+  {
+    "question_id":"question-5",
+    "answer": "Assemble 737 MAX fuselages at Boeing’s Wichita supplier, Spirit AeroSystems"
+  },
+  {
+    "question_id":"question-6",
+    "answer": "New highs, as spreading legalization brought new customers and soaring sales"
+  },
+  {
+    "question_id":"question-6",
+    "answer": "Sharp declines, as legalization failed to drive demand as high as expected",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-6",
+    "answer": "Flat performance, as a high degree of skepticism tempered hopes for growth"
+  },
+  {
+    "question_id":"question-7",
+    "answer": "345 – shortage of land makes new projects difficult"
+  },
+  {
+    "question_id":"question-7",
+    "answer": "9,345 – a sharp downturn after several boom years"
+  },
+  {
+    "question_id":"question-7",
+    "answer": "19,345 – 19% fewer than the same time last year",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-7",
+    "answer": "119,345 – an all-time record"
+  },
+  {
+    "question_id":"question-8",
+    "answer": "8,200 "
+  },
+  {
+    "question_id":"question-8",
+    "answer": "17,500 "
+  },
+  {
+    "question_id":"question-8",
+    "answer": "50,000 "
+  },
+  {
+    "question_id":"question-8",
+    "answer": "96,700 ",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-9",
+    "answer": "Facial recognition",
+    "correct": "x"
+  },
+  {
+    "question_id":"question-9",
+    "answer": "Iris scans"
+  },
+  {
+    "question_id":"question-9",
+    "answer": "Digital fingerprinting"
+  },
+  {
+    "question_id":"question-9",
+    "answer": "Quantum computing"
+  },
+  {
+    "question_id":"question-9",
+    "answer": "All of the above"
+  },
+  {
+    "question_id": "question-10",
+    "answer": "Deal with homelessness"
+  },
+  {
+    "question_id": "question-10",
+    "answer": "Encourage a reduction in CO2 emissions"
+  },
+  {
+    "question_id": "question-10",
+    "answer": "Speed the completion of the region’s light-rail system"
+  },
+  {
+    "question_id": "question-10",
+    "answer": "Unseat progressives from the Seattle City Council",
+    "correct": "x"
+  },
+  {
+    "question_id": "question-11",
+    "answer": "About 100"
+  },
+  {
+    "question_id": "question-11",
+    "answer": "About 200"
+  },
+  {
+    "question_id": "question-11",
+    "answer": "About 300"
+  },
+  {
+    "question_id": "question-11",
+    "answer": "About 400",
+    "correct": "x"
+  },
+  {
+    "question_id": "question-12",
+    "answer": "A line of women’s outdoor apparel"
+  },
+  {
+    "question_id": "question-12",
+    "answer": "An in-store chain of Tom Douglas eateries"
+  },
+  {
+    "question_id": "question-12",
+    "answer": "A flagship store in Manhattan",
+    "correct": "x"
+  },
+  {
+    "question_id": "question-12",
+    "answer": "A pet department"
+  }
+]

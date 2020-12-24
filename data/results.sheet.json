@@ -1,0 +1,27 @@
+[
+  {
+    "min": 0,
+    "max": 3,
+    "description": "Things have got to look up in 2021, right?"
+  },
+  {
+    "min": 4,
+    "max": 6,
+    "description": "Thanks for playing. Clearly you have been distracted this year for some reason."
+  },
+  {
+    "min": 7,
+    "max": 9,
+    "description": "Good work. Though there's definitely room for improvement — a lot like 2020."
+  },
+  {
+    "min": 10,
+    "max": 11,
+    "description": "Well done. But maybe you could have studied the business news a little more instead of taking those summer walks to maintain your sanity."
+  },
+  {
+    "min": 12,
+    "max": 13,
+    "description": "Great job. Obviously you've been cooped up inside a lot, reading The Seattle Times."
+  }
+]

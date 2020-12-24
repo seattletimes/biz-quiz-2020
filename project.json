@@ -1,0 +1,22 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "hopeless-misconduct-2020"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2020/business/biz-quiz"
+    }
+  },
+  "title": "",
+  "description": "",
+  "author": "",
+  "url": "",
+  "post_id": 0,
+  "image": "assets/social.jpg",
+  "sheets": ["1DPH7IaxyrlrK1Q4DjFheYK2NeEzKJZ8NXUgf0uGc9Po"],
+  "docs": [],
+  "embedded": true,
+  "production": true
+}
